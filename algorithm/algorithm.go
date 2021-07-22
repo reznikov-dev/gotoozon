@@ -1,9 +1,6 @@
 package algorithm
 
-const (
-	notFound = -1
-	split = ","
-)
+const notFound = -1
 
 // IsInclude
 // Алгоритм для простого случая - когда мы предполагаем,
